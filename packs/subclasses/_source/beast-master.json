@@ -1,0 +1,30 @@
+{
+  "_id": "beastmaster00000000000",
+  "name": "Beast Master",
+  "type": "subclass",
+  "img": "icons/creatures/mammals/wolf-howl-moon-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</p><h3>Ranger's Companion</h3><p>At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn't take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, Dodge, or Help action. If you don't issue a command, the beast takes the Dodge action.</p><h3>Exceptional Training</h3><p>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, Dodge, or Help action on its turn.</p><h3>Bestial Fury</h3><p>Starting at 11th level, your beast companion can make two attacks when you command it to use the Attack action.</p><h3>Share Spells</h3><p>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Player's Handbook",
+      "page": 93,
+      "license": "OGL 1.0a"
+    },
+    "identifier": "beast-master",
+    "classIdentifier": "ranger",
+    "advancement": [],
+    "spellcasting": {
+      "progression": "none"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

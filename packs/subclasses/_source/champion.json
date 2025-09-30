@@ -1,0 +1,30 @@
+{
+  "_id": "champion00000000000000",
+  "name": "Champion",
+  "type": "subclass",
+  "img": "icons/skills/melee/blade-tips-triple-steel.webp",
+  "system": {
+    "description": {
+      "value": "<p>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</p><h3>Improved Critical</h3><p>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</p><h3>Remarkable Athlete</h3><p>Starting at 7th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus. In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</p><h3>Additional Fighting Style</h3><p>At 10th level, you can choose a second option from the Fighting Style class feature.</p><h3>Superior Critical</h3><p>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18\u201320.</p><h3>Survivor</h3><p>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Player's Handbook",
+      "page": 72,
+      "license": "OGL 1.0a"
+    },
+    "identifier": "champion",
+    "classIdentifier": "fighter",
+    "advancement": [],
+    "spellcasting": {
+      "progression": "none"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
