@@ -1,0 +1,30 @@
+{
+  "_id": "wardomain0000000000000",
+  "name": "War Domain",
+  "type": "subclass",
+  "img": "icons/skills/melee/sword-shield-stylized-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds.</p><h3>War Domain Spells</h3><table><tbody><tr><td>1st</td><td>divine favor, shield of faith</td></tr><tr><td>3rd</td><td>magic weapon, spiritual weapon</td></tr><tr><td>5th</td><td>crusader's mantle, spirit guardians</td></tr><tr><td>7th</td><td>freedom of movement, stoneskin</td></tr><tr><td>9th</td><td>flame strike, hold monster</td></tr></tbody></table><h3>Bonus Proficiencies</h3><p>At 1st level, you gain proficiency with martial weapons and heavy armor.</p><h3>War Priest</h3><p>From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</p><h3>Channel Divinity: Guided Strike</h3><p>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p><h3>Channel Divinity: War God's Blessing</h3><p>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p><h3>Divine Strike</h3><p>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.</p><h3>Avatar of Battle</h3><p>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Player's Handbook",
+      "page": 63,
+      "license": "OGL 1.0a"
+    },
+    "identifier": "war-domain",
+    "classIdentifier": "cleric",
+    "advancement": [],
+    "spellcasting": {
+      "progression": "none"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

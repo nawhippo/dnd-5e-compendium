@@ -1,0 +1,29 @@
+# Build artifacts
+dist/
+release/
+*.zip
+
+# Node modules (if using build tools)
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Foundry VTT generated files
+packs/*/*.db
+packs/*/*.db-shm
+packs/*/*.db-wal
+!packs/*/_source/
+
+# Temporary files
+*.tmp
+*.log

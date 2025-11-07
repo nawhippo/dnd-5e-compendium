@@ -1,0 +1,52 @@
+{
+  "id": "dnd-5e-phb-compendium",
+  "title": "D&D 5e Player's Handbook Compendium",
+  "description": "A comprehensive compendium containing all subclasses and features from the D&D 5e Player's Handbook",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "nawhippo"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.0.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "subclasses",
+      "label": "Player's Handbook Subclasses",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "class-features",
+      "label": "Player's Handbook Class Features",
+      "path": "packs/class-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://github.com/nawhippo/dnd-5e-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/nawhippo/dnd-5e-compendium/releases/latest/download/dnd-5e-phb-compendium.zip"
+}

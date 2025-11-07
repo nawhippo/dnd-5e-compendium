@@ -1,0 +1,30 @@
+{
+  "_id": "oathoftheancients00000",
+  "name": "Oath of the Ancients",
+  "type": "subclass",
+  "img": "icons/magic/nature/root-vine-tree-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice.</p><h3>Tenets of the Ancients</h3><p>The tenets of the Oath of the Ancients have been preserved for uncounted centuries: Kindle the Light, Shelter the Light, Preserve Your Own Light, and Be the Light.</p><h3>Oath Spells</h3><table><tbody><tr><td>3rd</td><td>ensnaring strike, speak with animals</td></tr><tr><td>5th</td><td>moonbeam, misty step</td></tr><tr><td>9th</td><td>plant growth, protection from energy</td></tr><tr><td>13th</td><td>ice storm, stoneskin</td></tr><tr><td>17th</td><td>commune with nature, tree stride</td></tr></tbody></table><h3>Channel Divinity</h3><p>When you take this oath at 3rd level, you gain the following two Channel Divinity options. <strong>Nature's Wrath:</strong> As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish. <strong>Turn the Faithless:</strong> You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</p><h3>Aura of Warding</h3><p>Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells. At 18th level, the range of this aura increases to 30 feet.</p><h3>Undying Sentinel</h3><p>Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest. Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.</p><h3>Elder Champion</h3><p>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For 1 minute, you gain the following benefits: At the start of each of your turns, you regain 10 hit points. Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using a bonus action instead. Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options. Once you use this feature, you can't use it again until you finish a long rest.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Player's Handbook",
+      "page": 87,
+      "license": "OGL 1.0a"
+    },
+    "identifier": "oath-of-the-ancients",
+    "classIdentifier": "paladin",
+    "advancement": [],
+    "spellcasting": {
+      "progression": "none"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

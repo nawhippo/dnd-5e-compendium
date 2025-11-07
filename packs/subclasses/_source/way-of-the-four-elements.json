@@ -1,0 +1,30 @@
+{
+  "_id": "wayofthefourelements00",
+  "name": "Way of the Four Elements",
+  "type": "subclass",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "system": {
+    "description": {
+      "value": "<p>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</p><h3>Disciple of the Elements</h3><p>When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it. You know the Elemental Attunement discipline and one other elemental discipline of your choice. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level. Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline. Some elemental disciplines allow you to cast spells.</p><h3>Elemental Disciplines</h3><p>The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be that level in this class to learn the discipline. Available disciplines include: Breath of Winter, Clench of the North Wind, Elemental Attunement, Eternal Mountain Defense, Fangs of the Fire Snake, Fist of Four Thunders, Fist of Unbroken Air, Flames of the Phoenix, Gong of the Summit, Mist Stance, Ride the Wind, River of Hungry Flame, Rush of the Gale Spirits, Shape the Flowing River, Sweeping Cinder Strike, Water Whip, and Wave of Rolling Earth.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "Player's Handbook",
+      "page": 80,
+      "license": "OGL 1.0a"
+    },
+    "identifier": "way-of-the-four-elements",
+    "classIdentifier": "monk",
+    "advancement": [],
+    "spellcasting": {
+      "progression": "none"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
